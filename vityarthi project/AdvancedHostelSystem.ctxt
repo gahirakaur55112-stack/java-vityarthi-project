@@ -1,9 +1,0 @@
-#BlueJ class context
-#Fri Sep 18 12:24:26 IST 2026
-comment0.target=AdvancedHostelSystem
-comment1.params=rate
-comment1.target=RoomType(double)
-comment2.target=double getMonthlyRate()
-comment3.params=args
-comment3.target=void main(java.lang.String[])
-numComments=4
